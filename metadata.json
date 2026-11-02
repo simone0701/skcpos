@@ -1,0 +1,6 @@
+{
+  "name": "POS 智能會員點數積點系統",
+  "description": "專業 POS 機會員條碼掃描、多筆消費資訊批次核算、後台會員點數更新與顧客手機 App 即時餘額連動系統",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
